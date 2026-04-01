@@ -1,16 +1,18 @@
-## Hi there 👋
+# Omar Gobran — AI Engineer
 
-<!--
-**9obran/9obran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building production AI systems at the intersection of industrial data, computer vision, and LLM powered automation.
+From offshore monitoring pipelines to live UEFA broadcast systems - I ship AI that runs under pressure.
 
-Here are some ideas to get you started:
+## 🔧 What I'm Building
+- **[rag-document-api](https://github.com/9obran/rag-document-api)** - Production RAG pipeline with ChromaDB, groq LLM, and a FastAPI serving layer for privacy compliant document intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Real-World Experience
+- **Wintershall Dea AG** — Built AI based time series monitoring for Norwegian offshore facilities; automated OCR pipelines saving 40+ hours/month
+- **Hawk-Eye Innovations** — Operated live computer vision tracking systems for UEFA & Austrian Bundesliga with 100% uptime across 3+ years
+
+## ⚙️ Tech Stack
+Python · PyTorch · TensorFlow · Scikit learn · LangChain · ChromaDB · SQL  
+Microsoft Azure · Cognite Data Fusion · Dash/Plotly · FastAPI · C#
+
+## 📫 Contact
+omargobranai@gmail.com · [LinkedIn](https://linkedin.com/in/omar-gobran)
