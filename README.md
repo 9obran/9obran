@@ -21,7 +21,6 @@ I develop AI-powered monitoring systems for offshore infrastructure and have ope
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Local RAG Pipeline](https://github.com/9obran/rag-init)** | Chatbot with vector DBs for document-based AI assistants. Built local RAG pipeline using ChromaDB with data privacy compliance. | LangChain, ChromaDB, LLMs |
 | **[RL-Vehicle-Routing](https://github.com/9obran/RL-Vehicle-Routing-Optimization)** | Deep Q-Network for dynamic traffic optimization. Simulated 1,200-node network, achieved 28% reduction vs greedy algorithms. | PyTorch, DQN, Experience Replay |
 | **[Super-Resolution QR](https://github.com/9obran/SuperResolutionForQRCodeImages)** | Signal recovery with GANs/CNNs for degraded QR codes. 90% accuracy in reconstruction for industrial scanning. | PyTorch, GANs, Computer Vision |
 | **[FootStats Analytics](https://github.com/9obran/FootStats)** | End-to-end sports analytics with Dash dashboards, synthetic data generation, and statistical modeling. | Dash, Plotly, Scikit-learn |
@@ -67,9 +66,9 @@ Focus Areas: Machine Learning, Deep Learning, Reinforcement Learning, Computer V
 
 **Languages:** Python, SQL, C#  
 
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, Pandas, NumPy, LLMs, RAG Systems, Computer Vision  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, LLMs, RAG Systems, Computer Vision  
 
-**Cloud & Data:** Microsoft Azure, Cognite Data Fusion, ChromaDB, FastAPI  
+**Cloud & Data:** Microsoft Azure, Cognite Data Fusion, FastAPI  
 
 **Visualization:** Dash, Plotly  
 
