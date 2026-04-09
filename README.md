@@ -43,7 +43,7 @@ April 2023 – March 2024 | Hamburg, Germany
 Industrial AI | Offshore Operations | Azure | Cognite Data Fusion
 
 Developed AI based time series monitoring systems using Cognite Data Fusion for automated pressure estimation at Norwegian offshore facilities
-Designed and deployed "Non Ops Toolbox" — a Dash/Plotly application for energy production data visualization with statistical outlier detection; reduced reporting time from days to minutes
+Designed and deployed "Non Ops Toolbox"   a Dash/Plotly application for energy production data visualization with statistical outlier detection; reduced reporting time from days to minutes
 Supported Azure OCR machine learning pipeline for automated data extraction from 50+ monthly engineering reports; saved 40+ hours of manual data entry per month
 Led data literacy initiatives with training programs across 3 business units to introduce digital best practices
 
@@ -52,12 +52,12 @@ Led data literacy initiatives with training programs across 3 business units to 
 ## Education & Certifications
 
 Bachelor of Science (BSc) in Artificial Intelligence  
-Johannes Kepler University — Linz, Austria (2026)  
+Johannes Kepler University - Linz, Austria (2026)  
 Focus Areas: Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP, Time Series Analysis, Optimization
 
 Certifications:
-Create Machine Learning Models — Microsoft (Apr 2023)  
-Generative AI Learning Path — Google Cloud (Jul 2023)
+Create Machine Learning Models - Microsoft (Apr 2023)  
+Generative AI Learning Path - Google Cloud (Jul 2023)
 
 ---
 
